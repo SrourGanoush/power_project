@@ -53,25 +53,23 @@ The core components include:
 
 **1. Task Timer & Logging**
 *Description: Screen for selecting a task, starting/stopping the timer, and viewing main navigation.*
-![Task Timer Screen](./images/app-timer-screen.png) *<-- Replace with your image path*
+![Task Timer Screen](./screenshots/ui1.png) 
 
 **2. Daily Report & Record Management**
 *Description: Screen displaying tasks logged for the day, allowing users to view details and delete entries.*
-![Daily Report Screen](./images/app-report-screen.png) *<-- Replace with your image path*
+![Daily Report Screen](./screenshots/3.png) 
 
 **3. Tier 2 Support Ticket Form**
 *Description: Screen for submitting a support ticket with relevant fields.*
-![Support Ticket Screen](./images/app-ticket-screen.png) *<-- Replace with your image path*
-
+![Support Ticket Screen](./screenshots/2.png) 
 ### Power Automate Flow
 
 *Description: Overview of the automated workflow triggered by the app for ticket submission, including email, approval, conditional logic, and data insertion steps.*
-![Power Automate Flow Diagram](./images/power-automate-flow.png) *<-- Replace with your image path*
-
+![Power Automate Flow Diagram](./screenshots/flow.png) 
 ### Power BI Dashboard
 
 *Description: Power BI report visualizing data from Google Sheets, showing task analysis and user productivity metrics.*
-![Power BI Dashboard](./images/power-bi-dashboard.png) *<-- Replace with your image path*
+![Power BI Dashboard](./screenshots/bi.png) 
 
 ## Project Purpose & Learning
 
